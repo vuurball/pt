@@ -1,0 +1,13 @@
+{
+    "name": "vuurball/greetr",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Vuurball\\Greetr\\": "src/"
+        }
+    },
+    "require": {}
+}
